@@ -11,8 +11,9 @@ Responsive UI: The application is fully responsive and works well on desktops, t
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
 ## Prerequisites
+
 Make sure you have a modern web browser installed (such as Google Chrome, Mozilla Firefox, Safari, or Microsoft Edge).## Usage
-Adding a Task
+## Adding a Task
 Locate the input field at the top of the application.
 Type the task you wish to add.
 Click the "Add" button or press Enter to add the task to the list.
